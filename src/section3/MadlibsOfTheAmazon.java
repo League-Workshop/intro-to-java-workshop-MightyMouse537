@@ -26,13 +26,15 @@ String place=JOptionPane.showInputDialog(null,"write a place");
 		// back to the [place]. Good luck!
 		 
 		// Make a pop-up for the final story. You can use \n to go to the next line
-		JOptionPane.showMessageDialog(null,"\n" + 
-				"		 Piranhas are more"+ adjective+ " during the day, so cross the river at\n 
-				"		 night. Piranhas are attracted to fresh"+ liquid+" and will most\n"  
-				"		 likely take a bite out of your" +bodypart+" if you"+ verb+". Whatever\n 
-				"		 you do, if you have an open wound, try to find another way to get\n" 
-				"		 back to the" +place+". Good luck!");
-
+		/*
+		 * JOptionPane.showMessageDialog(null,"\n" + "		 Piranhas are more"+
+		 * adjective+ " during the day, so cross the river at\n
+		 * "		 night. Piranhas are attracted to fresh"+ liquid+" and will most\n"
+		 * "		 likely take a bite out of your" +bodypart+" if you"+ verb+".
+		 * Whatever\n
+		 * "		 you do, if you have an open wound, try to find another way to get\n"
+		 * "		 back to the" +place+". Good luck!");
+		 */
 	}
 }
 
